@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Maksym Skladan</h1>
 <h3 align="center">A backend developer from Lviv, Ukraine</h3>
 
-- 🌱 I’m currently learning **Django and REST API**
+- 🌱 I’m currently learning **REST API**
 
-- 💬 Ask me about **python, sqlite3**
+- 💬 Ask me about **python, sqlite3, django**
 
 - 📫 How to reach me **maksskladan@gmail.com**
 
